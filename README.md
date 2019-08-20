@@ -10,3 +10,4 @@ work I have scraped and cleaned the data into somthing usable for my purposes.
 
 # Technology used
 - [web scraper plugin](https://www.webscraper.io)
+- `python` and `pandas` for data cleaning

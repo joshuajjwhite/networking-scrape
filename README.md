@@ -11,3 +11,9 @@ work I have scraped and cleaned the data into somthing usable for my purposes.
 # Technology used
 - [web scraper plugin](https://www.webscraper.io)
 - `python` and `pandas` for data cleaning
+
+# Places Scraped
+- [GR Business Networking East Ontario](https://www.grbusinessnetworking.com/businessnetworking/index.php?c=LcXiIUnkRa01SDD3O3WNX57bFwH5MDenPNWdSB7roqk)
+- [BNI East](http://bnieast.ca/en-CA/chapterlist?chapterName=&chapterCity=&chapterArea=&chapterMeetingDay=&chapterMeetingTime=&regionIds=17133&fbclid=IwAR3MW-Qw-OVzu5KCqXsOvENo-5gvPo0zk2quppuh_faorM_JhNJUuiwZoO8)
+- [Collab Space Members](https://collabspace.ca/members/)
+- [eSAX Sponsors](http://esax.ca/sponsors/?fbclid=IwAR1dXo_LKnG2BkllpeUtpoUfnDNoqOhBitz4OvzFWRcoXGmCXcRcTjXqjeM)
